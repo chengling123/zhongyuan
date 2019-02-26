@@ -1,4 +1,4 @@
-# vue-sell-cube
+# vue-sell-cube zhongyuan
 
 ## Project setup
 ```
